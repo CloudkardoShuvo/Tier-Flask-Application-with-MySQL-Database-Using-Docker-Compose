@@ -17,10 +17,8 @@ Step 1: Clone the Repository 📂
 Let's start by cloning the repository containing the source code for our two-tier application. Open your terminal and execute the following commands:
 
 
-COPY
-git clone https://github.com/sumanprasad007/two-tier-flask-app.git
 
-cd two-tier-architecture-flask-application-with-mysql-database
+
 
 
 You're now ready to dive into the project!
